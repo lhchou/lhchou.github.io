@@ -11,7 +11,7 @@ layout: feed
 	<id>http://hankquinlan.github.io/blog</id>
 	<author>
 		<name>Ronny Chou</name>
-		<email>Ronnychouisonline@gmail.com</email>
+		<email>xxxx@gmail.com</email>
 	</author>
 
 	{% for post in site.posts %}
