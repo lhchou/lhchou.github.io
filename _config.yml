@@ -1,2 +1,3 @@
   name: Ronny chou, Cryogenic engineering reseacher
   markdown: kramdown
+  permalink: /blog/:year/:month/:day/:title
